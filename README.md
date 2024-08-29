@@ -1,4 +1,5 @@
-
+you can start by npm start
+the Dr code dont has backend but i develope that near
 
 ![bandicam 2024-08-28 06-30-10-269](https://github.com/user-attachments/assets/87ad516a-dfaf-400d-bc02-9c414cc29c2c)
 ![bandicam 2024-08-28 06-30-16-644](https://github.com/user-attachments/assets/7cf1a514-7b3d-4c5b-bef0-707884a548c9)
