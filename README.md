@@ -1,4 +1,6 @@
+to setup you must git clone the repo in your computer 
 you can start by npm start
+you must be install nodes js and npm
 the Dr code dont has backend but i develope that near
 
 ![bandicam 2024-08-28 06-30-10-269](https://github.com/user-attachments/assets/87ad516a-dfaf-400d-bc02-9c414cc29c2c)
