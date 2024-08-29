@@ -1,3 +1,4 @@
+/*data file*/ 
 export const homeAbout = [
     {
       id: 1,
